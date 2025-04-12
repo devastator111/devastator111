@@ -1,6 +1,8 @@
 # **devastator111**
 ###  _What I'm working on_
 - Learning p5.js
+- Making my personal webpage on [testRepo](https://devastator111.github.io/testRepo/)
+- Listening to great music
 - Brainstorming new games?
 <br>
 
@@ -8,7 +10,7 @@
 - [Arras.io](https://arras.io) player
 - Mountain biker
 - Star Wars fan
-- Nerd
+- Programmer (pretty obviously)
 <br>
 
 ### _Favorite Quotes_
