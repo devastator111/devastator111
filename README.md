@@ -1,9 +1,11 @@
-# **devastator111**
+<center> devastator111 </center>
+
 ###  _What I'm working on_
 - Learning p5.js
-- Making my personal webpage on [Devastator111-Home](https://devastator111.github.io/Devastator111-Home/)
+- Making my personal webpage
 - Listening to great music
 - Brainstorming new games?
+- Writing a 3D geoJSON renderer...
 <br>
 
 ### _About me_
